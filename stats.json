@@ -1,0 +1,58 @@
+{
+    "players": {
+        "Sofeya": {
+            "games": 1,
+            "wins": 1,
+            "score": 2,
+            "last_difficulty": "EASY",
+            "last_attempts": 3,
+            "avg_attempts": 3.0,
+            "last_play": "2025-12-25"
+        },
+        "lesyk": {
+            "games": 1,
+            "wins": 1,
+            "score": 1,
+            "last_difficulty": "EASY",
+            "last_attempts": 4,
+            "avg_attempts": 4.0,
+            "last_play": "2025-12-25"
+        },
+        "Roman": {
+            "games": 1,
+            "wins": 1,
+            "score": 3,
+            "last_difficulty": "HARD",
+            "last_attempts": 3,
+            "avg_attempts": 3.0,
+            "last_play": "2025-12-25"
+        },
+        "Sasha": {
+            "games": 1,
+            "wins": 1,
+            "score": 3,
+            "last_difficulty": "EASY",
+            "last_attempts": 3,
+            "avg_attempts": 3.0,
+            "last_play": "2025-12-25"
+        },
+        "Vlad": {
+            "games": 1,
+            "wins": 1,
+            "score": 1,
+            "last_difficulty": "EASY",
+            "last_attempts": 4,
+            "avg_attempts": 4.0,
+            "last_play": "2025-12-25"
+        },
+        "Kvitana": {
+            "games": 1,
+            "wins": 1,
+            "score": 2,
+            "last_difficulty": "EASY",
+            "last_attempts": 3,
+            "avg_attempts": 3.0,
+            "last_play": "2025-12-25"
+        }
+    }
+}
